@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+
+
+
+body {
+    font-family: Anton, serif;
+    background: linear-gradient(150deg, #156AD2 0%, #4E9B9E 47%, #63D28E 100%);}
+
+.nav-link {
+    color: aquamarine;
+}
+
+.navbar-nav .nav-link.active {
+    color: aquamarine;
+}
+
+.navbar-brand img {
+    width: 40px;
+}
+
+.navbar-toggler {
+    background-color: antiquewhite;
+}
+
+.footer-text {
+    color: aquamarine;
+    margin: auto auto;
+}
+
+footer {
+    background: linear-gradient(360deg, #000000 0%, #000000 47%, #000000 100%);
+}
+
+.media-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
